@@ -4,7 +4,7 @@ A Comprehensive Benchmark for Proactive Streaming Video Understanding.
 
 [Project website](https://lyxxx1211.github.io/SVUBench/) · [Paper](paper.pdf)
 
-The English project page presents the task taxonomy, dual interaction modes, and Proactive Response Score from the paper, with interactive event, historical matching, and summarization demonstrations.
+The English project page presents the task taxonomy, dual interaction modes, and Proactive Response Score from the paper, with ten playable task examples and interactive event, historical matching, and summarization demonstrations.
 
 ## Run locally
 
