@@ -12,7 +12,7 @@ The English project page presents the task taxonomy, dual interaction modes, and
 python3 -m http.server 8000
 ```
 
-Open http://localhost:8000. The website bundles its styles, scripts, figures, and math fonts in `index.html`.
+Open http://localhost:8000. The website bundles styles, scripts, and math fonts in `index.html`. Figures use SVG to preserve vector text and lines, with the original figure PDFs linked from the page.
 
 ## GitHub Pages
 
